@@ -1,0 +1,3 @@
+SELECT *
+FROM STOCK
+WHERE STK_NM='삼성전자';
